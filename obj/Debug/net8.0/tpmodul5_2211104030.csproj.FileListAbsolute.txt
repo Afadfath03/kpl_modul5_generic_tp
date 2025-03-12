@@ -12,3 +12,4 @@ D:\Study\Kampus\Matkul\Semester 6\Praktikum KPL\KPL\Meet3\Modul 5\tpmodul5_22111
 D:\Study\Kampus\Matkul\Semester 6\Praktikum KPL\KPL\Meet3\Modul 5\tpmodul5_2211104030\obj\Debug\net8.0\tpmodul5_2211104030.pdb
 D:\Study\Kampus\Matkul\Semester 6\Praktikum KPL\KPL\Meet3\Modul 5\tpmodul5_2211104030\obj\Debug\net8.0\tpmodul5_2211104030.genruntimeconfig.cache
 D:\Study\Kampus\Matkul\Semester 6\Praktikum KPL\KPL\Meet3\Modul 5\tpmodul5_2211104030\obj\Debug\net8.0\ref\tpmodul5_2211104030.dll
+D:\Study\Kampus\Matkul\Semester 6\Praktikum KPL\KPL\Meet3\Modul 5\tpmodul5_2211104030\obj\Debug\net8.0\tpmodul5_2211104030.sourcelink.json
